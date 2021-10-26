@@ -1,0 +1,16 @@
+{
+  "name": "github-docker-deploy",
+  "version": "1.0.0",
+  "description": "With GitHub docker deploy, you can publish a static website from a GitHub repository and have it update automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git-pull-or-clone": "^2.0.1",
+    "uuid": "^8.3.2"
+  }
+}
