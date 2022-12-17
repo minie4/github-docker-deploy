@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
-    "git-pull-or-clone": "^2.0.1",
+    "git-pull-or-clone": "^2.0.2",
     "uuid": "^9.0.0"
   }
 }
