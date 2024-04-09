@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "git-pull-or-clone": "^2.0.2",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   }
 }
